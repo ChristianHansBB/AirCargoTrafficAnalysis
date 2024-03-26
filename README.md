@@ -10,7 +10,7 @@ The primary sources of this dataset are likely aviation authorities, airlines, a
 Data collection methods could include direct reporting from airlines, air cargo carriers, and airport authorities. Automated systems within airports and cargo terminals may also capture data on cargo movements, aircraft utilization, and other relevant metrics.
 
 ## Data Contents and cleaning
-See the attached Excel file.
+See the attached Excel file: https://github.com/ChristianHansBB/AirCargoTrafficAnalysis/tree/main/Files
 
 ## Data Limitations
 •	Data Accuracy: 
