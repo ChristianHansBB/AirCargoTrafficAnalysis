@@ -45,8 +45,8 @@ Airlines, cargo carriers, logistics companies, and other industry players can us
 •	Predictive Analytics: 
 Historical data in the dataset can be used to develop predictive models for forecasting air cargo trends, demand fluctuations, and operational challenges. Such models help stakeholders anticipate future scenarios and make proactive decisions to mitigate risks and capitalize on opportunities.
 
-## Define questions
-#### Clarifying question:
+## Key questions
+
 1.	How do the cargo weights vary across different types of cargo and airlines, and which airlines handle the highest average cargo weights?
    
 2.	When analyzing the activity periods, what seasonal patterns emerge in air cargo operations, and how do these patterns vary across different geographic regions?
