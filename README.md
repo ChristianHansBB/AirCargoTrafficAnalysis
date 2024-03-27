@@ -15,8 +15,10 @@ See the attached Excel file: https://github.com/ChristianHansBB/AirCargoTrafficA
 ## Data Limitations
 •	Data Accuracy: 
 The accuracy of the dataset depends on the quality of the data provided by various sources. Errors or inconsistencies in reporting could affect the reliability of the analysis.
+
 •	Coverage: 
 The dataset may not capture all air cargo operations globally, as it relies on voluntary reporting from airlines and other entities. Some regions or smaller carriers may be underrepresented.
+
 •	Temporal Scope: 
 The dataset may have limitations in terms of its temporal scope. Historical data may be available for analysis, but it's essential to consider the relevance of older data in understanding current trends and patterns.
 
@@ -49,18 +51,11 @@ Historical data in the dataset can be used to develop predictive models for fore
    
 2.	When analyzing the activity periods, what seasonal patterns emerge in air cargo operations, and how do these patterns vary across different geographic regions?
    
-53.	Where are the busiest air cargo hubs located geographically, and how does the volume of cargo differ between these hubs throughout the year?
-
-#### Funneling Questions:
-For clarifying question 1:
-1.	What are the most common types of cargo transported by air, and how do their average weights compare across different airlines?
+3.	Where are the busiest air cargo hubs located geographically, and how does the volume of cargo differ between these hubs throughout the year?
    
-2.	Among the top airlines handling air cargo, which ones exhibit the highest variability in cargo weights across different types of cargo?
+4.	 What is the future of air cargo transport ?
 
-For clarifying question 3:
-1.	Which geographic regions emerge as the primary hubs for air cargo operations, and what factors contribute to their prominence in the industry?
-   
-2.	Among the identified air cargo hubs, how does the volume of cargo fluctuate throughout the year, and are there any noticeable seasonal trends or peak periods?
+Questions 1 to 3 are analyzed with python. The code is included in the attached jupyther files. Questions 2 and 4 is analyzed in a Tableau Story Board: https://public.tableau.com/app/profile/christian.hans5070/viz/CargoStoryBoard/CargoStoryBoard?publish=yes
 
 ## Privacy and Ethics
 •	How is personally identifiable information (PII) handled within the dataset, particularly concerning individuals or businesses involved in air cargo operations?
